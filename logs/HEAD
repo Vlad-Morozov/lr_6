@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 fd463dd8377c6456a3edaabdfc5ade1b95255011 Iryna_Ol <olijnikira@example.com> 1744883069 +0300	commit (initial): Initial commit
+fd463dd8377c6456a3edaabdfc5ade1b95255011 0000000000000000000000000000000000000000 Iryna_Ol <olijnikira@example.com> 1744883080 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 fd463dd8377c6456a3edaabdfc5ade1b95255011 Iryna_Ol <olijnikira@example.com> 1744883080 +0300	Branch: renamed refs/heads/master to refs/heads/main
+fd463dd8377c6456a3edaabdfc5ade1b95255011 aba58ba487768b2a9e08cb5220bc0a4ca6f461af Iryna_Ol <olijnikira@example.com> 1744883289 +0300	commit (merge): Initial commit
+aba58ba487768b2a9e08cb5220bc0a4ca6f461af 0000000000000000000000000000000000000000 Iryna_Ol <olijnikira@example.com> 1744883298 +0300	Branch: renamed refs/heads/main to refs/heads/main
+aba58ba487768b2a9e08cb5220bc0a4ca6f461af aba58ba487768b2a9e08cb5220bc0a4ca6f461af Iryna_Ol <olijnikira@example.com> 1744883298 +0300	Branch: renamed refs/heads/main to refs/heads/main
